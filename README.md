@@ -1,6 +1,6 @@
 # Hi there 👋 I Am Krrish.
 AMA(Ask me Anything) [here.](https://github.com/Krrishdhaneja/Krrishdhaneja/discussions)
-![Krrish's github stats](https://github-readme-stats.vercel.app/api?username=Krrishdhaneja&show_icons=true&theme=dracula)
+![Krrish's github stats](https://github-readme-stats.vercel.app/api?username=Krrishdhaneja&show_icons=true&theme=default)
 <!--
 **Krrishdhaneja/Krrishdhaneja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
