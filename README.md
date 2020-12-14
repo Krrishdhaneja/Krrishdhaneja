@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋 Am Krrish.
+AMA(Ask me Anything) [here.](https://github.com/Krrishdhaneja/Krrishdhaneja/discussions)
 
 <!--
 **Krrishdhaneja/Krrishdhaneja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
