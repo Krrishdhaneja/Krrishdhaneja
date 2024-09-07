@@ -2,7 +2,6 @@
 
 AMA(Ask me Anything) [here.](https://github.com/Krrishdhaneja/Krrishdhaneja/discussions)
 
-![Krrish's github stats](https://github-readme-stats.vercel.app/api?username=Krrishdhaneja&show_icons=true&theme=default)
 
 [![Krrish's User States](https://github-readme-stats.vercel.app/api/top-langs/?username=Krrishdhaneja&layout=compact&card_width=445)](https://github.com/Krrishdhaneja)
 <!--
